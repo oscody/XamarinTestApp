@@ -5,7 +5,7 @@
 
    <ContentPage.Content>
 
-        <WebView x:Name="Browser" Source="https://www.vermontassocdesign.com/expressproducts"
+        <WebView Source="https://www.vermontassocdesign.com/expressproducts"
                  VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" >
         </WebView>
 
